@@ -85,7 +85,7 @@ npm run pack:linux
 
 ### 常见问题
 
-常见问题已移至：<https://github.com/lyswhut/lx-music-desktop/blob/master/FAQ.md>
+常见问题已移至：<https://github.com/Jeffery-Zhou/lxMusicApp/blob/main/FAQ.md>
 
 ### 项目协议
 
