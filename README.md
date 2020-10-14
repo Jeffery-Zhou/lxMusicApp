@@ -103,4 +103,4 @@ npm run pack:linux
 若你使用了本项目，将代表你接收以上协议。
 
 音乐平台不易，请尊重版权，支持正版。<br>
-若对此有疑问请 mail to: lyswhut+qq.com (请将`+`替换成`@`)
+若对此有疑问请 mail to: zhoupengunique at 163 dot com
