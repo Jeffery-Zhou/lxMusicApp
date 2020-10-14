@@ -103,6 +103,6 @@ npm run pack:linux
 若你使用了本项目，将代表你接收以上协议。
 
 音乐平台不易，请尊重版权，支持正版。<br>
-####若使用舒适，可以支付宝请作者喝咖啡
+#### 若使用舒适，可以支付宝请作者喝咖啡
 <p><a href="https://github.com/Jeffery-Zhou/lxMusicApp"><img width="20%" src="https://github.com/Jeffery-Zhou/lxMusicApp/blob/main/doc/images/alipay.png" alt="lx-music UI"></a></p>
 若对此有疑问请 mail to: zhoupengunique at 163 dot com
