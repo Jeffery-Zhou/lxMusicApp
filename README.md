@@ -28,7 +28,7 @@
 [9]: https://img.shields.io/github/license/lyswhut/lx-music-desktop
 [10]: https://github.com/lyswhut/lx-music-desktop/blob/master/LICENSE -->
 
-<h2 align="center">洛雪音乐助手桌面版</h2>
+<h2 align="center">落雪音乐助手桌面版</h2>
 
 ### 说明
 
@@ -106,5 +106,5 @@ npm run pack:linux
 若对此有疑问请 mail to: zhoupengunique at 163 dot com
 
 #### PS. 若体验尚可，可以支付宝请作者喝咖啡~。~
-<p><a href="https://github.com/Jeffery-Zhou/lxMusicApp"><img width="20%" src="https://github.com/Jeffery-Zhou/lxMusicApp/blob/main/doc/images/alipay.png" alt="lx-music UI"></a></p>
+<p><a href="https://github.com/Jeffery-Zhou/lxMusicApp"><img width="40%" src="https://github.com/Jeffery-Zhou/lxMusicApp/blob/main/doc/images/alipay.png" alt="lx-music UI"></a></p>
 
